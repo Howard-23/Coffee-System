@@ -1,0 +1,32 @@
+:root {
+  --color-cream: #f8efe3;
+  --color-beige: #ecdac2;
+  --color-sand: #dfc3a1;
+  --color-mocha: #7b5844;
+  --color-espresso: #2f1d16;
+  --color-espresso-soft: #4a3126;
+  --color-caramel: #b27848;
+  --color-caramel-strong: #8b552d;
+  --color-white: #fffaf5;
+  --color-muted: #6f5a4f;
+  --color-line: rgba(74, 49, 38, 0.12);
+  --color-line-strong: rgba(74, 49, 38, 0.24);
+  --shadow-soft: 0 16px 45px rgba(68, 41, 26, 0.12);
+  --shadow-deep: 0 28px 80px rgba(41, 24, 17, 0.18);
+  --radius-sm: 14px;
+  --radius-md: 22px;
+  --radius-lg: 32px;
+  --radius-pill: 999px;
+  --space-1: 0.5rem;
+  --space-2: 0.75rem;
+  --space-3: 1rem;
+  --space-4: 1.5rem;
+  --space-5: 2rem;
+  --space-6: 3rem;
+  --space-7: 4rem;
+  --space-8: 5rem;
+  --container: 1180px;
+  --font-heading: "Palatino Linotype", "Book Antiqua", Georgia, serif;
+  --font-body: "Trebuchet MS", "Gill Sans", "Segoe UI", sans-serif;
+  --transition: 220ms ease;
+}

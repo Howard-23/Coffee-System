@@ -1,0 +1,9 @@
+<svg width="900" height="1100" viewBox="0 0 900 1100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="1100" fill="#F6E8D8"/>
+  <rect x="96" y="94" width="708" height="912" rx="42" fill="#FFF7F0"/>
+  <circle cx="450" cy="360" r="164" fill="#DFC3A1"/>
+  <circle cx="450" cy="330" r="88" fill="#7B5844"/>
+  <path d="M308 530C308 451.575 371.575 388 450 388V388C528.425 388 592 451.575 592 530V690H308V530Z" fill="#B27848"/>
+  <rect x="236" y="720" width="428" height="160" rx="32" fill="#2F1D16"/>
+  <text x="286" y="812" fill="#FFF7F0" font-family="Georgia, serif" font-size="44" font-weight="700">Lena Hart</text>
+</svg>

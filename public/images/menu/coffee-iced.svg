@@ -1,0 +1,10 @@
+<svg width="800" height="800" viewBox="0 0 800 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="800" rx="40" fill="#F3E1CF"/>
+  <path d="M282 212H522L484 564C478.856 611.555 438.652 648 390.818 648H413.182C365.348 648 325.144 611.555 320 564L282 212Z" fill="#FFF8F1"/>
+  <path d="M316 282H488L468 542C465.37 576.183 436.863 602 402.579 602H401.421C367.137 602 338.63 576.183 336 542L316 282Z" fill="#B27848"/>
+  <path d="M346 156L372 238" stroke="#7B5844" stroke-width="20" stroke-linecap="round"/>
+  <path d="M454 156L428 238" stroke="#7B5844" stroke-width="20" stroke-linecap="round"/>
+  <rect x="352" y="352" width="70" height="70" rx="18" fill="#FBEBDD" fill-opacity="0.7"/>
+  <rect x="422" y="430" width="70" height="70" rx="18" fill="#FBEBDD" fill-opacity="0.7"/>
+  <text x="292" y="704" fill="#2F1D16" font-family="Georgia, serif" font-size="52" font-weight="700">Iced Espresso</text>
+</svg>

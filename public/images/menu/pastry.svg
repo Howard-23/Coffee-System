@@ -1,0 +1,9 @@
+<svg width="800" height="800" viewBox="0 0 800 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="800" rx="40" fill="#F5E6D2"/>
+  <path d="M188 458C188 332.072 290.072 230 416 230C541.928 230 644 332.072 644 458V458H188V458Z" fill="#B27848"/>
+  <path d="M230 458C230 356.38 312.38 274 414 274C515.62 274 598 356.38 598 458H230Z" fill="#E7C39E"/>
+  <path d="M204 458H628V520C628 574.124 584.124 618 530 618H302C247.876 618 204 574.124 204 520V458Z" fill="#FFF7F0"/>
+  <path d="M278 392C296.667 366 335.2 346.4 372 366" stroke="#8B552D" stroke-width="14" stroke-linecap="round"/>
+  <path d="M418 370C444 350.667 487.333 348 520 370" stroke="#8B552D" stroke-width="14" stroke-linecap="round"/>
+  <text x="290" y="706" fill="#2F1D16" font-family="Georgia, serif" font-size="52" font-weight="700">Fresh Pastries</text>
+</svg>

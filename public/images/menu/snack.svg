@@ -1,0 +1,11 @@
+<svg width="800" height="800" viewBox="0 0 800 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="800" rx="40" fill="#F2E1CE"/>
+  <rect x="186" y="248" width="428" height="274" rx="42" fill="#FFF7F0"/>
+  <rect x="216" y="284" width="368" height="50" rx="18" fill="#B27848"/>
+  <rect x="216" y="352" width="302" height="42" rx="18" fill="#DFC3A1"/>
+  <rect x="216" y="410" width="338" height="42" rx="18" fill="#7B5844"/>
+  <rect x="186" y="536" width="428" height="44" rx="22" fill="#2F1D16"/>
+  <circle cx="610" cy="296" r="74" fill="#DFC3A1"/>
+  <circle cx="610" cy="296" r="50" fill="#B27848"/>
+  <text x="325" y="706" fill="#2F1D16" font-family="Georgia, serif" font-size="52" font-weight="700">Savory Bites</text>
+</svg>
